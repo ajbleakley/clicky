@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clicky/static/css/main.afd29bcc.chunk.css",
+    "main.css": "/clicky/static/css/main.bf8e0d7c.chunk.css",
     "main.js": "/clicky/static/js/main.233a9210.chunk.js",
     "main.js.map": "/clicky/static/js/main.233a9210.chunk.js.map",
     "runtime-main.js": "/clicky/static/js/runtime-main.8db5a474.js",
@@ -8,9 +8,9 @@
     "static/js/2.6fb57f59.chunk.js": "/clicky/static/js/2.6fb57f59.chunk.js",
     "static/js/2.6fb57f59.chunk.js.map": "/clicky/static/js/2.6fb57f59.chunk.js.map",
     "index.html": "/clicky/index.html",
-    "precache-manifest.a4567ca06aa1fea8c3b187bd6efd2a07.js": "/clicky/precache-manifest.a4567ca06aa1fea8c3b187bd6efd2a07.js",
+    "precache-manifest.940adcab0f122eb39f856dd05a1c4b54.js": "/clicky/precache-manifest.940adcab0f122eb39f856dd05a1c4b54.js",
     "service-worker.js": "/clicky/service-worker.js",
-    "static/css/main.afd29bcc.chunk.css.map": "/clicky/static/css/main.afd29bcc.chunk.css.map",
+    "static/css/main.bf8e0d7c.chunk.css.map": "/clicky/static/css/main.bf8e0d7c.chunk.css.map",
     "static/js/2.6fb57f59.chunk.js.LICENSE.txt": "/clicky/static/js/2.6fb57f59.chunk.js.LICENSE.txt",
     "static/media/elena-prokofyeva-17909-unsplash-min.jpg": "/clicky/static/media/elena-prokofyeva-17909-unsplash-min.183d8168.jpg",
     "static/media/jordan-mcqueen-99269-unsplash-min.jpg": "/clicky/static/media/jordan-mcqueen-99269-unsplash-min.bd326418.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.8db5a474.js",
     "static/js/2.6fb57f59.chunk.js",
-    "static/css/main.afd29bcc.chunk.css",
+    "static/css/main.bf8e0d7c.chunk.css",
     "static/js/main.233a9210.chunk.js"
   ]
 }
